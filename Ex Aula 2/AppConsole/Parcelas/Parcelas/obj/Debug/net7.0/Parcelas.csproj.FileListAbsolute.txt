@@ -1,0 +1,15 @@
+C:\Users\autologon\source\repos\Parcelas\Parcelas\obj\Debug\net7.0\Parcelas.csproj.AssemblyReference.cache
+C:\Users\autologon\source\repos\Parcelas\Parcelas\obj\Debug\net7.0\Parcelas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\autologon\source\repos\Parcelas\Parcelas\obj\Debug\net7.0\Parcelas.AssemblyInfoInputs.cache
+C:\Users\autologon\source\repos\Parcelas\Parcelas\obj\Debug\net7.0\Parcelas.AssemblyInfo.cs
+C:\Users\autologon\source\repos\Parcelas\Parcelas\obj\Debug\net7.0\Parcelas.csproj.CoreCompileInputs.cache
+C:\Users\autologon\source\repos\Parcelas\Parcelas\bin\Debug\net7.0\Parcelas.exe
+C:\Users\autologon\source\repos\Parcelas\Parcelas\bin\Debug\net7.0\Parcelas.deps.json
+C:\Users\autologon\source\repos\Parcelas\Parcelas\bin\Debug\net7.0\Parcelas.runtimeconfig.json
+C:\Users\autologon\source\repos\Parcelas\Parcelas\bin\Debug\net7.0\Parcelas.dll
+C:\Users\autologon\source\repos\Parcelas\Parcelas\bin\Debug\net7.0\Parcelas.pdb
+C:\Users\autologon\source\repos\Parcelas\Parcelas\obj\Debug\net7.0\Parcelas.dll
+C:\Users\autologon\source\repos\Parcelas\Parcelas\obj\Debug\net7.0\refint\Parcelas.dll
+C:\Users\autologon\source\repos\Parcelas\Parcelas\obj\Debug\net7.0\Parcelas.pdb
+C:\Users\autologon\source\repos\Parcelas\Parcelas\obj\Debug\net7.0\Parcelas.genruntimeconfig.cache
+C:\Users\autologon\source\repos\Parcelas\Parcelas\obj\Debug\net7.0\ref\Parcelas.dll

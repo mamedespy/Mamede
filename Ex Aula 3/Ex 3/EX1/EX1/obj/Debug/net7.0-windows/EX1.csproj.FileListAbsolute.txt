@@ -1,0 +1,50 @@
+C:\Users\autologon\Downloads\Aula1\EX1\EX1\obj\Debug\net7.0-windows\EX1.csproj.AssemblyReference.cache
+C:\Users\autologon\Downloads\Aula1\EX1\EX1\obj\Debug\net7.0-windows\EX1.Form1.resources
+C:\Users\autologon\Downloads\Aula1\EX1\EX1\obj\Debug\net7.0-windows\EX1.csproj.GenerateResource.cache
+C:\Users\autologon\Downloads\Aula1\EX1\EX1\obj\Debug\net7.0-windows\EX1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\autologon\Downloads\Aula1\EX1\EX1\obj\Debug\net7.0-windows\EX1.AssemblyInfoInputs.cache
+C:\Users\autologon\Downloads\Aula1\EX1\EX1\obj\Debug\net7.0-windows\EX1.AssemblyInfo.cs
+C:\Users\autologon\Downloads\Aula1\EX1\EX1\obj\Debug\net7.0-windows\EX1.csproj.CoreCompileInputs.cache
+C:\Users\autologon\Downloads\Aula1\EX1\EX1\bin\Debug\net7.0-windows\EX1.exe
+C:\Users\autologon\Downloads\Aula1\EX1\EX1\bin\Debug\net7.0-windows\EX1.deps.json
+C:\Users\autologon\Downloads\Aula1\EX1\EX1\bin\Debug\net7.0-windows\EX1.runtimeconfig.json
+C:\Users\autologon\Downloads\Aula1\EX1\EX1\bin\Debug\net7.0-windows\EX1.dll
+C:\Users\autologon\Downloads\Aula1\EX1\EX1\bin\Debug\net7.0-windows\EX1.pdb
+C:\Users\autologon\Downloads\Aula1\EX1\EX1\obj\Debug\net7.0-windows\EX1.dll
+C:\Users\autologon\Downloads\Aula1\EX1\EX1\obj\Debug\net7.0-windows\refint\EX1.dll
+C:\Users\autologon\Downloads\Aula1\EX1\EX1\obj\Debug\net7.0-windows\EX1.pdb
+C:\Users\autologon\Downloads\Aula1\EX1\EX1\obj\Debug\net7.0-windows\EX1.genruntimeconfig.cache
+C:\Users\autologon\Downloads\Aula1\EX1\EX1\obj\Debug\net7.0-windows\ref\EX1.dll
+C:\Users\autologon\Documents\augusto\EX1\EX1\bin\Debug\net7.0-windows\EX1.exe
+C:\Users\autologon\Documents\augusto\EX1\EX1\bin\Debug\net7.0-windows\EX1.deps.json
+C:\Users\autologon\Documents\augusto\EX1\EX1\bin\Debug\net7.0-windows\EX1.runtimeconfig.json
+C:\Users\autologon\Documents\augusto\EX1\EX1\bin\Debug\net7.0-windows\EX1.dll
+C:\Users\autologon\Documents\augusto\EX1\EX1\bin\Debug\net7.0-windows\EX1.pdb
+C:\Users\autologon\Documents\augusto\EX1\EX1\obj\Debug\net7.0-windows\EX1.csproj.AssemblyReference.cache
+C:\Users\autologon\Documents\augusto\EX1\EX1\obj\Debug\net7.0-windows\EX1.Form1.resources
+C:\Users\autologon\Documents\augusto\EX1\EX1\obj\Debug\net7.0-windows\EX1.csproj.GenerateResource.cache
+C:\Users\autologon\Documents\augusto\EX1\EX1\obj\Debug\net7.0-windows\EX1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\autologon\Documents\augusto\EX1\EX1\obj\Debug\net7.0-windows\EX1.AssemblyInfoInputs.cache
+C:\Users\autologon\Documents\augusto\EX1\EX1\obj\Debug\net7.0-windows\EX1.AssemblyInfo.cs
+C:\Users\autologon\Documents\augusto\EX1\EX1\obj\Debug\net7.0-windows\EX1.csproj.CoreCompileInputs.cache
+C:\Users\autologon\Documents\augusto\EX1\EX1\obj\Debug\net7.0-windows\EX1.dll
+C:\Users\autologon\Documents\augusto\EX1\EX1\obj\Debug\net7.0-windows\refint\EX1.dll
+C:\Users\autologon\Documents\augusto\EX1\EX1\obj\Debug\net7.0-windows\EX1.pdb
+C:\Users\autologon\Documents\augusto\EX1\EX1\obj\Debug\net7.0-windows\EX1.genruntimeconfig.cache
+C:\Users\autologon\Documents\augusto\EX1\EX1\obj\Debug\net7.0-windows\ref\EX1.dll
+D:\Aula VsCode\Ex Aula 3\Ex 3\EX1\EX1\bin\Debug\net7.0-windows\EX1.exe
+D:\Aula VsCode\Ex Aula 3\Ex 3\EX1\EX1\bin\Debug\net7.0-windows\EX1.deps.json
+D:\Aula VsCode\Ex Aula 3\Ex 3\EX1\EX1\bin\Debug\net7.0-windows\EX1.runtimeconfig.json
+D:\Aula VsCode\Ex Aula 3\Ex 3\EX1\EX1\bin\Debug\net7.0-windows\EX1.dll
+D:\Aula VsCode\Ex Aula 3\Ex 3\EX1\EX1\bin\Debug\net7.0-windows\EX1.pdb
+D:\Aula VsCode\Ex Aula 3\Ex 3\EX1\EX1\obj\Debug\net7.0-windows\EX1.Form1.resources
+D:\Aula VsCode\Ex Aula 3\Ex 3\EX1\EX1\obj\Debug\net7.0-windows\EX1.csproj.GenerateResource.cache
+D:\Aula VsCode\Ex Aula 3\Ex 3\EX1\EX1\obj\Debug\net7.0-windows\EX1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aula VsCode\Ex Aula 3\Ex 3\EX1\EX1\obj\Debug\net7.0-windows\EX1.AssemblyInfoInputs.cache
+D:\Aula VsCode\Ex Aula 3\Ex 3\EX1\EX1\obj\Debug\net7.0-windows\EX1.AssemblyInfo.cs
+D:\Aula VsCode\Ex Aula 3\Ex 3\EX1\EX1\obj\Debug\net7.0-windows\EX1.csproj.CoreCompileInputs.cache
+D:\Aula VsCode\Ex Aula 3\Ex 3\EX1\EX1\obj\Debug\net7.0-windows\EX1.dll
+D:\Aula VsCode\Ex Aula 3\Ex 3\EX1\EX1\obj\Debug\net7.0-windows\refint\EX1.dll
+D:\Aula VsCode\Ex Aula 3\Ex 3\EX1\EX1\obj\Debug\net7.0-windows\EX1.pdb
+D:\Aula VsCode\Ex Aula 3\Ex 3\EX1\EX1\obj\Debug\net7.0-windows\EX1.genruntimeconfig.cache
+D:\Aula VsCode\Ex Aula 3\Ex 3\EX1\EX1\obj\Debug\net7.0-windows\ref\EX1.dll

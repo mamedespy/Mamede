@@ -1,0 +1,17 @@
+C:\Users\autologon\source\repos\ParcelasWF\ParcelasWF\obj\Debug\net7.0-windows\ParcelasWF.csproj.AssemblyReference.cache
+C:\Users\autologon\source\repos\ParcelasWF\ParcelasWF\obj\Debug\net7.0-windows\ParcelasWF.Form1.resources
+C:\Users\autologon\source\repos\ParcelasWF\ParcelasWF\obj\Debug\net7.0-windows\ParcelasWF.csproj.GenerateResource.cache
+C:\Users\autologon\source\repos\ParcelasWF\ParcelasWF\obj\Debug\net7.0-windows\ParcelasWF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\autologon\source\repos\ParcelasWF\ParcelasWF\obj\Debug\net7.0-windows\ParcelasWF.AssemblyInfoInputs.cache
+C:\Users\autologon\source\repos\ParcelasWF\ParcelasWF\obj\Debug\net7.0-windows\ParcelasWF.AssemblyInfo.cs
+C:\Users\autologon\source\repos\ParcelasWF\ParcelasWF\obj\Debug\net7.0-windows\ParcelasWF.csproj.CoreCompileInputs.cache
+C:\Users\autologon\source\repos\ParcelasWF\ParcelasWF\bin\Debug\net7.0-windows\ParcelasWF.exe
+C:\Users\autologon\source\repos\ParcelasWF\ParcelasWF\bin\Debug\net7.0-windows\ParcelasWF.deps.json
+C:\Users\autologon\source\repos\ParcelasWF\ParcelasWF\bin\Debug\net7.0-windows\ParcelasWF.runtimeconfig.json
+C:\Users\autologon\source\repos\ParcelasWF\ParcelasWF\bin\Debug\net7.0-windows\ParcelasWF.dll
+C:\Users\autologon\source\repos\ParcelasWF\ParcelasWF\bin\Debug\net7.0-windows\ParcelasWF.pdb
+C:\Users\autologon\source\repos\ParcelasWF\ParcelasWF\obj\Debug\net7.0-windows\ParcelasWF.dll
+C:\Users\autologon\source\repos\ParcelasWF\ParcelasWF\obj\Debug\net7.0-windows\refint\ParcelasWF.dll
+C:\Users\autologon\source\repos\ParcelasWF\ParcelasWF\obj\Debug\net7.0-windows\ParcelasWF.pdb
+C:\Users\autologon\source\repos\ParcelasWF\ParcelasWF\obj\Debug\net7.0-windows\ParcelasWF.genruntimeconfig.cache
+C:\Users\autologon\source\repos\ParcelasWF\ParcelasWF\obj\Debug\net7.0-windows\ref\ParcelasWF.dll
